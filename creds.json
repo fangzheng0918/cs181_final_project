@@ -1,0 +1,8 @@
+{
+  "sqlite_covid": {
+    "dbdir": "dbfiles",
+    "database": "covid",
+    "scheme": "sqlite"
+  }
+  
+}
